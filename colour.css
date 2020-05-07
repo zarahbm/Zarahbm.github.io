@@ -38,7 +38,7 @@ This sets the colour of the links on your page
  */
 
 a, a:visited {
-  color: #CED4E4;
+  color: #EBEFF6;
 }
 
 /*
@@ -46,7 +46,7 @@ This sets the colour of the link when you hover over it
  */
 
 a:hover {
-  color: #5F75AD;
+  color: #9EA7BE;
 }
 
 /*
