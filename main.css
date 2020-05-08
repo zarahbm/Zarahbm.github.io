@@ -150,10 +150,10 @@ a > .fab, a > .fas{
           padding-bottom: 0.4em;
         }
         h1.name{
-          text-align: center;
+          text-align: left;
           margin: 2em 0 0 0;
           padding: 0;
-          font-size: 4em;
+          font-size: 1.5em;
         }
         .list{
           padding: 0em 3em;
