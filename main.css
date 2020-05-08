@@ -72,10 +72,14 @@ a:hover {
 .bio{
   padding: 1.8em 0em 3em 2em;
   float: right;
-  text-align: justify;
+  text-align: left;
   width: 30vw;
   z-index: 99999;
   position: relative;
+}
+
+.content{
+	
 }
 
 .bioTitle{
