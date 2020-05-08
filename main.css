@@ -13,6 +13,12 @@ body {
     color: hsl(0,0%,90%);
     background-color: #111;
 }
+
+.pageOutline{
+	border-style:solid;
+	border-color:#C08849;
+}
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
@@ -34,7 +40,7 @@ h1, h2, h3{
 h1{
   text-transform: uppercase;
   font-weight: 900;
-  font-size: 2em;
+  font-size: 1.5em;
   text-align: center;
   color: #333;
   padding: 0em;
@@ -88,6 +94,12 @@ a:hover {
 
 .bioImage{
 	padding-top: 40px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
 }
 
 .contact{
